@@ -1,0 +1,18 @@
+# Core API & Config
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+pydantic==2.9.0
+pydantic-settings==2.5.0
+python-dotenv==1.0.1
+python-multipart==0.0.9
+
+# Data & Utilities
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+
+# Dev, Testing & Linting
+pytest==8.3.3
+httpx==0.27.2
+black==24.8.0
+ruff==0.6.5
